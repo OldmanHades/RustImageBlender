@@ -1,3 +1,5 @@
+// src/io.rs
+
 use image::GenericImageView;
 
 pub struct SourceData {

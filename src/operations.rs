@@ -1,3 +1,5 @@
+// src/operations.rs
+
 pub trait BlendOperation {
     fn perform_operation(&self, pixel1: [u8; 3], pixel2: [u8; 3]) -> [u8; 3];
 }

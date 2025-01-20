@@ -1,3 +1,4 @@
+// src/blend.rs
 use crate::{operations::BlendOperation, SourceData};
 use image::{ImageBuffer, Rgb};
 

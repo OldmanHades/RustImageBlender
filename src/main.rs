@@ -1,3 +1,5 @@
+// src/main.rs
+
 mod blend;
 mod io;
 mod operations;
